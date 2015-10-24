@@ -1,0 +1,8 @@
+{
+	"name": "dice",
+	"description": "Simple dice program",
+	"copyright": "Copyright © 2015, ukatama",
+	"authors": ["ukatama"],
+	"dependencies": {
+	}
+}
